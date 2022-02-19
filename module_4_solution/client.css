@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+.bg-dark{
+    background-color: black!important;
+}
+.navbar-dark .navbar-brand{
+    color: aqua;
+    font-family: 'Playfair Display', serif;
+    font-size: 24px;
+}
+body {
+    text-align: center;
+}
+body>h1{
+    width: 100%;
+    padding: 8px;
+}
+.column-content{
+    background-color: aqua;
+    border: 1px solid black;
+    margin: 8px;
+}
+.column-content h1{
+    background-color: black;
+    color: white;
+    padding: 4px 0px;
+    margin-right: -1px;
+}
+.column-content p{
+    padding: 8px;
+}
